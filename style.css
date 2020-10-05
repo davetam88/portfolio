@@ -69,7 +69,10 @@ h2 {
 }
 
 h3 {
-    font-size: 18px;
+	/*  new size  */
+    font-size: 12px;
+	/*  new  */
+    color: LIGHTSEAGREEN;
 }
 
 p, li {
